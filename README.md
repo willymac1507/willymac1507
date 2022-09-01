@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willymac1507
-- 🌱 Currently a junior-scion at Netmatters on the SCS program
+- 🌱 I am a full stack web developer, specialising in PHP, Laravel, MySql, HTML, CSS, Sass, JavaScript and Wordpress
 - 📫 email me at william.mccloy@googlemail.com
 
 <!---
